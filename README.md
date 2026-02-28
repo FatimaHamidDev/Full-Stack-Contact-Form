@@ -1,6 +1,6 @@
 # 📩 MERN Contact Form
 
-A full stack contact form built using the MERN stack with Nodemailer integration for sending emails.
+A full-stack contact form built using the MERN stack with Nodemailer integration for sending emails.
 
 ## 🚀 Features
 
@@ -29,7 +29,3 @@ Backend:
 2. Data is sent to the Express backend.
 3. Backend uses Nodemailer to send the email.
 4. Success or error response is returned.
-
-## ⚙️ Setup Instructions
-
-1. Clone the repository
